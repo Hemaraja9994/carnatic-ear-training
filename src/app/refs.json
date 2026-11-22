@@ -1,0 +1,17 @@
+[
+  { "id": "ci-pitch", "title": "Pitch is hard with a cochlear implant", "tags": ["cochlear implant", "pitch", "music", "spectral", "limitation", "melody", "ci"],
+    "text": "Cochlear implants carry speech well but convey pitch and melody poorly, because fine spectral and temporal detail is lost. Many implant users find music less clear or less enjoyable, and pitch-direction and melody tasks are difficult. Targeted practice can help the brain use the cues that remain.",
+    "source": "Limb CJ, Roy AT. Technological, biological, and acoustical constraints to music perception in cochlear implant users. Hear Res 308:13–26", "year": 2014, "url": "https://pubmed.ncbi.nlm.nih.gov/24035820/", "checked": "Nov 2026" },
+  { "id": "training-helps", "title": "Music and pitch training can help", "tags": ["training", "rehabilitation", "practice", "melody", "improvement", "auditory training"],
+    "text": "Structured music and pitch-perception training can improve pitch discrimination, melody recognition and music enjoyment for cochlear-implant and hearing-aid users. Regular, graded practice — as in these exercises — is the usual format, alongside real music listening.",
+    "source": "Gfeller K, et al. Music training for cochlear implant recipients. J Am Acad Audiol", "year": 2015, "url": "https://pubmed.ncbi.nlm.nih.gov/26649942/", "checked": "Nov 2026" },
+  { "id": "staircase", "title": "Why the step changes as you answer", "tags": ["adaptive", "staircase", "threshold", "2-down-1-up", "cents", "discrimination"],
+    "text": "The higher-or-lower exercise uses a 2-down 1-up adaptive staircase: the pitch step shrinks after two correct answers and grows after a mistake, settling around the smallest difference you can hear reliably (about 70% correct). The result is given in cents — 100 cents is one semitone.",
+    "source": "Levitt H. Transformed up-down methods in psychoacoustics. J Acoust Soc Am 49(2):467–477", "year": 1971, "url": "https://pubmed.ncbi.nlm.nih.gov/5541744/", "checked": "Nov 2026" },
+  { "id": "drone", "title": "The drone (sruti) as an anchor", "tags": ["drone", "sruti", "tanpura", "reference", "sa", "tonic", "anchor"],
+    "text": "A continuous drone on Sa and Pa, as a tanpura provides, gives the ear a steady reference to judge other notes against. Practising swaras over a drone mirrors how Carnatic music is learnt and gives implant and hearing-aid users a familiar, culturally meaningful anchor for pitch.",
+    "source": "Carnatic pedagogy; auditory anchoring in pitch perception", "year": 2020, "checked": "Nov 2026" },
+  { "id": "comfort", "title": "Keep the sound comfortable", "tags": ["comfort", "loudness", "safe", "volume", "audiologist", "mapping"],
+    "text": "Practice should be at a comfortable loudness; stop if a sound is unpleasant or too loud. For cochlear-implant users, how pitch comes through also depends on the device's programming (mapping), so share any difficulty with your audiologist, who can adjust it.",
+    "source": "General cochlear-implant and hearing-aid user guidance", "year": 2023, "checked": "Nov 2026" }
+]
