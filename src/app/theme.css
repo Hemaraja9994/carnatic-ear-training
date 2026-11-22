@@ -1,0 +1,39 @@
+.theme-src{}
+/* ===== carnatic-ear-training theme ===== */
+:root{
+  --color-paper: #FBF4E9;
+  --color-surface: #FFFDF8;
+  --color-ink: #4A1D1D;
+  --color-muted: #6E4A44;
+  --color-line: #E6D5C0;
+  --color-track: #F0E3D0;
+  --color-accent: #7E540D;
+  --color-grid: #F0E3D0;
+  --color-gold: #7E540D;
+  --font-sans: "Spectral","Atkinson Hyperlegible",system-ui,sans-serif;
+  --font-display: "Marcellus","Atkinson Hyperlegible",system-ui,sans-serif;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+  --color-paper: #1A0E0C;
+  --color-surface: #271512;
+  --color-ink: #F3E6DC;
+  --color-accent: #E0B254;
+  --color-grid: #2C1A16;
+  --color-muted: #A3B1C2;
+  --color-line: #2B3A4B;
+  --color-track: #22303F;
+  }
+}
+body{
+  background-image:
+    linear-gradient(var(--color-grid) 1px, transparent 1px),
+    linear-gradient(90deg, var(--color-grid) 1px, transparent 1px);
+  background-size: 26px 26px;
+}
+h1,h2,h3,h4{ font-family: var(--font-display); }
+header.bg-ink{
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='120' height='40' viewBox='0 0 120 40'%3E%3Cpath d='M0 20 Q15 2 30 20 T60 20 T90 20 T120 20' fill='none' stroke='rgba(255,255,255,0.09)' stroke-width='2'/%3E%3C/svg%3E");
+  background-size: 120px 40px;
+}
+
